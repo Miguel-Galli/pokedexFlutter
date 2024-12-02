@@ -1,6 +1,5 @@
 # Pokedex
 
-A volta do flutter
 
 ## Getting Started
 
